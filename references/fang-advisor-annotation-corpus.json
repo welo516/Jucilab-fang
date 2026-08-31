@@ -1,0 +1,2054 @@
+[
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "To address"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "?"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "并行方法是为了解决收敛问题？"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 1,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "下一个段落出现并行BNSL的目的性不强，突然出现的没有道理，也就无法提现本文的研究意义。而且为什么你要用并行GA，不是并行其他的算法。"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 1,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "以下三段都是通用内容，没有针对性，对本文的作用并不大。 本文为什么用GA，为什么用MI，为什么设计并行GA，为什么是spark并行，为什么提出父集结构，都没有给出足够的铺垫。"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 2,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "没有讲清楚基于GA的BNSL。 也没有讲清楚GA，思路乱。"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "与前文毫无联系"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "既然是本文的一个重要技术点，是不是要单独拿出来讲清楚？"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "跟图没有任何对应关系"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 3,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "与图1有没有对应？"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "有错吗？"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "这是什么意思？好多地方出现"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 4,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "跟spark几乎无任何联系"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "基本看不懂，文中也基本没有写清楚整个刘处"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "实在看不懂"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "讲得通吗？"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "number of"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "s"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 7,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "跟前面名称对应吗？"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "study on"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "括号里面是什么意思"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "study on"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "operator"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 10,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "on the parallel BNSL algorithms based on GA"
+  },
+  {
+    "source": "0928-PMIPSGA-fang .pdf",
+    "file": "0928-PMIPSGA-fang .pdf",
+    "page": 10,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "图里面有吗？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "一句话这么长。 过于堆积辞藻。 optimization跟GA不重复吗？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "这是什么词"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "这又是什么词"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "有这样的说法吗？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 1,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "这个摘要写的太高级了，很难理解！"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "从内容来看 不是related work"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "看不出有这样的信息"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "不像是related work的标题"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "文献"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "这都是些什么词！"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "啥？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "太混乱了，感觉就是在炫技、炫词"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "你一直在强调的feedback呢？ 我是想说，这篇论文的内容写的过于刻意的去造词，让人是目不暇接、无法理解"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "上下没有联系，哪来的feedback"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "from"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "文字不要斜，看不清"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "怪异写法"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "lead"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "evolution"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "没有解释清楚这么设计的作用或者意义"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "下标"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "造了好多词 前后也不统一"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 6,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "仅仅是MDSC的复杂度？ 什么是application analysis？有这样的说法？"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 11,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "不需要写三段，内容要精简。"
+  },
+  {
+    "source": "COFTGA_251218-fang.pdf",
+    "file": "COFTGA_251218-fang.pdf",
+    "page": 12,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "全文都没有看出、也没有指出这个特征"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "since"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "?"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "这个不能作为贡献？"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "BNSL methods"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "co-evolutionary ?不要用太多的近义词"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "图上看不出这个框架 你查一下CCPSO的co-evolutionary框架，可以问李晓彤"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "还是有这个feedback？"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "(PCR)"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "?"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "feedback有几种？"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 7,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "括号的写法用的太多了"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "不是很理想的标题"
+  },
+  {
+    "source": "COFTGA_260115_fang.pdf",
+    "file": "COFTGA_260115_fang.pdf",
+    "page": 12,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "不要分段"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Constraint-Search Collaborative Genetic Algorithm"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "speed"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "based on CB and SS"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "are"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 2,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "是不是先把collaborative的思路作为创新点"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "我怎么知道这是MI"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "（）"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "BN"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "找不到对应内容"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "是不是用motivation of ...更好 但以下的内容其实没有更多的包含motivation"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "跟你的摘要就对不上"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "造了这么多词，前面都没有体现 关键词要保持一致"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "没有解释理由 前面一个m1也是"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "node"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 6,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "公式里有横线吗"
+  },
+  {
+    "source": "COFTGA_260131-fang.pdf",
+    "file": "COFTGA_260131-fang.pdf",
+    "page": 12,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "2025的文献基本没有"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "operator"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "the proposed"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "cases"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "can"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "会不会有点矛盾？前面说MI用的少、后面说MI过于依赖"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Population initialization in MMGA-BN is ..."
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "novel"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "少用这种主动语态"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "A"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is designed"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "II"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "T"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is given in Section III"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "E"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "are shown in Section IV"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "further work"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "respectively"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "selection, crossover, and mutation"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "at first"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Each"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Then the evolution process are carried out"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "existing"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "BNSL"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "MI"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "GAs"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is usually randomly"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "with"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "population"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "s"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "over"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Similar with the"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "BNSL"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "不对吧，你要介绍的是ai,bj， p"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "这两个变量前面用过吗？"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "要对着图2具体讲设计的思路"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "这是什么句子？"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "are"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "or"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "这是什么写法？"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "?"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "ors"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is 少用将来时，其他地方不再一一指出"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "图中发送变化的边用红色标出来"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is proposed here"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "for"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "ing"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "那为什么还要再弄一个变量出来？"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "对图的解释，不太理想，你看一下张昌伟第一篇英文论文"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "evolution processes"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "the proposed"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "ence"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "al results"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "evaluated"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 6,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "?"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 7,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "is used to"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 7,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "主动语态太多"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "?"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Performance evaluation"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "proposed"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "population"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "study"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "performance of the"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "你特别喜欢用这个词"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "analysis"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 9,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "少用"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "operator"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "analysis"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "GAs"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 9,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "看着很怪异，没有合适的算法引用吗"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 10,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "没看懂"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 10,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "among"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 12,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "ovel"
+  },
+  {
+    "source": "MMGA_BN (12)-fang.pdf",
+    "file": "MMGA_BN (12)-fang.pdf",
+    "page": 14,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "标出的文献均缺少信息； 文献格式 IEEEabrv"
+  },
+  {
+    "source": "MMGA_BN-fang.pdf",
+    "file": "MMGA_BN-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "综述引用"
+  },
+  {
+    "source": "MMGA_BN-fang.pdf",
+    "file": "MMGA_BN-fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": ","
+  },
+  {
+    "source": "MMGA_BN-fang.pdf",
+    "file": "MMGA_BN-fang.pdf",
+    "page": 1,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "观点的文献引用"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 1,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "是不是太大了"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "evolutionary"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "没有提并行框架"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 3,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "图呢"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "RDD"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "are"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "francis",
+    "subject": "附注",
+    "comment": "看不出bn与CAI之间的联系，文中也没有写清楚。"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "francis",
+    "subject": "附注",
+    "comment": "这两列就只标识父节点A B？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "with 2N individuals？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "francis",
+    "subject": "附注",
+    "comment": "对该图的描述，提及记忆化了吗？ 图中还有什么关键信息没有讲？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "这句话能看清楚你说的是什么步骤的独立并行？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "T"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "common used crossover operator"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "subsubsection?"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "in Parallel"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 6,
+    "type": "Text",
+    "author": "francis",
+    "subject": "附注",
+    "comment": "整个介绍跟图没有联系！你要至少用一组边进行介绍。 又怎么能看出你的算子保留了优秀的结构？ 怎么能知道你的这个算子是如何并行了？是否提升了计算性能？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "is"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "in Parallel"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 6,
+    "type": "Text",
+    "author": "francis",
+    "subject": "附注",
+    "comment": "这里依然没有说并行！"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "【】"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 7,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "the"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 7,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "这是什么东西？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "什么单位？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "什么意思？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "这又是什么意思？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "一天？两天？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "on"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 8,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "proposed"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "on the proposed"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "operator"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 10,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "是不是太敷衍了"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 10,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "？"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 10,
+    "type": "Caret",
+    "author": "francis",
+    "subject": "插入号",
+    "comment": "ing"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 10,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "时而and 时而or"
+  },
+  {
+    "source": "PMIPSGA_0123_fang.pdf",
+    "file": "PMIPSGA_0123_fang.pdf",
+    "page": 10,
+    "type": "Highlight",
+    "author": "francis",
+    "subject": "高亮",
+    "comment": "我认为本文不是针对这个情况来研究的，是本文的成果在这样困难的情况下能够适用"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "The task of Bayesian network structure learning (BNSL) is widely recognized as an NP-hard problem. Genetic algorithms (GAs) have demonstrated significant efficacy in addressing combinatorial optimization problems, including those related to BNSL. However, when dealing with large-scale datasets and high-dimensional networks, GA-based BNSL methods often encounter extensive time consumption and involve numerous redundant calculations. 但是我觉得不应该仅仅是time consumption，否则不一定需要并行。"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "GA for BNSL"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "PGA-MIPS"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "A"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "in terms of ???"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": ", parallel, Spark"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "The major process of PGA-MIPSS contains three main steps:"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 1,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": ", which all run"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "BNSL"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 2,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "used"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "BNSL"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "For example, bn2 and bn5 may be randomly selected to construct CCAI1. 我不清楚写的对不对 要有个简单的例子。"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "fangwei",
+    "subject": "高亮",
+    "comment": "是不是缺了上标"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "Four Parent Sets of"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 5,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "..."
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 6,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "空格 不一一改了"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 7,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "study"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 7,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "你这里要说清楚，哪些维度是large dataset，哪些维度是high-dimentional network"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 8,
+    "type": "FreeText",
+    "author": "fangwei",
+    "subject": "文本框",
+    "comment": "OOM INDICATES OUT-OF-MEMORY. N/A MEANS NO MEMORY IS REQUIRED."
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "Study"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 9,
+    "type": "Caret",
+    "author": "fangwei",
+    "subject": "插入号",
+    "comment": "study"
+  },
+  {
+    "source": "PMIPSGA_0214_fang.pdf",
+    "file": "PMIPSGA_0214_fang.pdf",
+    "page": 12,
+    "type": "Text",
+    "author": "fangwei",
+    "subject": "附注",
+    "comment": "加balance，文献可以平均分布"
+  },
+  {
+    "source": "【0416】MMGA_BN(1) -fang.pdf",
+    "file": "【0416】MMGA_BN(1) -fang.pdf",
+    "page": 3,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "are"
+  },
+  {
+    "source": "【0416】MMGA_BN(1) -fang.pdf",
+    "file": "【0416】MMGA_BN(1) -fang.pdf",
+    "page": 4,
+    "type": "Caret",
+    "author": "wxfan",
+    "subject": "插入号",
+    "comment": "Population"
+  },
+  {
+    "source": "【0416】MMGA_BN(1) -fang.pdf",
+    "file": "【0416】MMGA_BN(1) -fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "wxfan",
+    "subject": "高亮",
+    "comment": "全文检查将来时态，尽量不要"
+  },
+  {
+    "source": "【0416】MMGA_BN(1) -fang.pdf",
+    "file": "【0416】MMGA_BN(1) -fang.pdf",
+    "page": 4,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "对图2没有具体介绍，你只是说了理念。"
+  },
+  {
+    "source": "【0416】MMGA_BN(1) -fang.pdf",
+    "file": "【0416】MMGA_BN(1) -fang.pdf",
+    "page": 4,
+    "type": "Highlight",
+    "author": "He",
+    "subject": "Highlight",
+    "comment": "a的策略，不同方法。我们选择的是什么。然后对于排除后的关系，我们采用100%生成概率。 MMGA-BN的初始化算子被描述在图二中，以便描述算子细节。每个模块的含义。首先利用CI限制搜索空间。然后利用MI排除初始化空间的独立关系。 下一段，Finally，根据一个高斯N分布的a来作为"
+  },
+  {
+    "source": "【0416】MMGA_BN(1) -fang.pdf",
+    "file": "【0416】MMGA_BN(1) -fang.pdf",
+    "page": 5,
+    "type": "Text",
+    "author": "wxfan",
+    "subject": "附注",
+    "comment": "图中的红色箭头表示什么意思？、 图中红色箭头表示增加的边或者方向变化的边。"
+  }
+]
