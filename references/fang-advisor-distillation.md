@@ -182,6 +182,8 @@ The advisor treats excessive terminology as a trust problem. A coined term is ac
 
 Otherwise, replace it with a plain field-common phrase.
 
+Quick test: if a sentence could be mechanically translated from Chinese academic phrasing (for example `this case`, `more practical`, `effectively solves`) without losing meaning, replace it with a field-common English equivalent before finalizing.
+
 ### 4. Figures must be explained concretely
 
 Figure descriptions must map to visible elements. Do not merely state the idea behind a figure.

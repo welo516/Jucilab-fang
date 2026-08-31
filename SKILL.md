@@ -7,6 +7,21 @@ description: Polish and audit evolutionary computation, data mining, NAS, causal
 
 Use this skill for computer-science and technical manuscript polishing when the main goal is clear, field-common, reviewer-defensible academic prose. It also acts as a distilled Fang/JUCILab advisor for manuscript logic, figure-method alignment, terminology discipline, and contribution defensibility. Diagnose logic first, then polish wording.
 
+## Hard Constraints (Check Before Every Output)
+
+These override style preference when in conflict. Before presenting any rewritten text, verify none are violated.
+
+1. MUST NOT mix advisor-diagnosis tone into final manuscript text.
+   Bad: "The mechanism lacks clear motivation, so we design a two-stage operator..."
+   Good (final text): "A two-stage mutation operator is designed to balance constraint satisfaction and population diversity."
+2. MUST NOT use unsupported strong claims (`requires`, `proves`, `guarantees`, `addresses the requirements`) without explicit support in the manuscript.
+3. MUST NOT invent compound terms or coined names without one clear definition and consistent reuse.
+4. MUST NOT use colons, semicolons, or dashes as structural devices in manuscript text (standard exceptions: ratios, `Fig. 2`-style references, required list punctuation).
+5. MUST NOT let a related-work paragraph advertise or praise the proposed method.
+6. MUST NOT claim a contribution that is not visible elsewhere in the manuscript.
+7. MUST NOT leave a pronoun (`it`, `this`, `they`, `which`) with an ambiguous antecedent.
+8. MUST NOT skip the diagnosis step and jump straight to polished text when the request is a full-section or advisor-style revision.
+
 ## Division Of Authority
 
 One principle, stated once here and assumed everywhere:
@@ -14,6 +29,7 @@ One principle, stated once here and assumed everywhere:
 - **Advisor style decides what is wrong.** References `fang-advisor-distillation.md` and `fang-revision-evolution.md` provide diagnosis, severity, and repair planning.
 - **Base rules decide how the corrected manuscript reads.** The rules in this file (field-common wording, cautious claims, section logic, word-level audit) produce the final text.
 - Never write final manuscript text in the tone of the advisor's comments.
+- Before finalizing output, re-read the drafted manuscript text once and ask whether any sentence sounds like a review comment rather than paper prose. If yes, rewrite that sentence.
 
 ## Reference Routing
 
@@ -41,6 +57,14 @@ Use two phases whenever the user asks for advisor-style review plus rewriting:
 6. If there is a blocking logic, figure, contribution, or terminology issue, state it before rewriting and repair the structure first.
 7. For the final rewritten passage, switch back to the base polishing constraints below.
 8. Produce the smallest rewrite that fixes the issue. Avoid unnecessary refactoring of surrounding text.
+
+Before producing final text, explicitly answer, in order:
+
+1. Section job (one sentence)
+2. Any blocking-level issue found (yes/no, and which)
+3. Confirmation that Hard Constraints were checked
+
+Skipping this checklist is not allowed for full-section rewrites or advisor-style requests. For short single-sentence polish requests, checklist items 1-2 may be answered in one line each.
 
 ## General Reviewer Preference Rules
 
@@ -147,6 +171,17 @@ For every proposed rewrite, check:
 - Does any sentence nest more than one level of clauses or pack several ideas into one sentence? If so, split it.
 - Does the paragraph move from known work to limitation to present need?
 - Would the same expression be likely to appear in an accepted paper from the target research area? If not, simplify or mark the wording for field-use verification.
+
+## Conflict Priority
+
+When rules conflict, resolve in this order:
+
+1. Hard Constraints (this file)
+2. Advisor-style diagnosis correctness (`references/fang-advisor-distillation.md`)
+3. Field-common wording (Field-Usage Constraint, `references/group-domain-scope.md`)
+4. Sentence-level style polish (Style Rules)
+
+Do not sacrifice a higher-priority rule to satisfy a lower-priority one.
 
 ## Output Format
 
