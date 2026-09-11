@@ -13,13 +13,13 @@ Classify the request before reading any reference file, and load only what the t
 
 | Task | Read | Notes |
 |---|---|---|
-| Short polish or translation of a sentence/paragraph | this file only | smallest sufficient rewrite; science issues flagged out-of-band (Hard Constraint 9) |
-| Language-only cleanup / de-AI-tone | this file only | Language-Only Mode boundaries below; preserve numbers, citations, and claim strength |
+| Short polish or translation of a sentence/paragraph | this file; plus the domain pack on domain match | smallest sufficient rewrite; science issues flagged out-of-band (Hard Constraint 9) |
+| Language-only cleanup / de-AI-tone | this file; plus the domain pack on domain match | Language-Only Mode boundaries below; preserve numbers, citations, and claim strength |
 | Substantive revision (abstract/intro/contributions/method/figure text) | `references/review.md`; plus the domain pack when the domain matches | diagnosis before rewriting |
 | Full review, pre-submission check, reviewer response | `references/review.md` + `references/examples.md`; plus the domain pack | build the cross-section fact table; report P0/P1/P2 |
 | Corpus or rule maintenance | `references/corpus.md` + Governance section | follow the rule-tier process |
 
-Domain detection: causal discovery, DAG learning, or Bayesian network structure learning manuscripts → also read `references/domain-causal-bnsl.md`. Other fields (NLP, systems, ML infrastructure, and so on) → base rules only; never transplant BNSL vocabulary into them. The domain pack adds field facts only; the claim-hygiene rules below are field-independent and always apply.
+Domain detection applies to every row above — `this file` never excludes the matching domain pack: causal discovery, DAG learning, or Bayesian network structure learning manuscripts → also read `references/domain-causal-bnsl.md` (its claim boundaries are what make out-of-band science checks possible, including in language-only mode). Other fields (NLP, systems, ML infrastructure, and so on) → base rules only; never transplant BNSL vocabulary into them. The domain pack adds field facts only; the claim-hygiene rules below are field-independent and always apply.
 
 ## Hard Constraints
 
