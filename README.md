@@ -14,13 +14,13 @@ It also embeds a distilled advisor review model: diagnosis rules and repair patt
 ## Repository Structure
 
 ```text
-SKILL.md                                     # Skill entry: workflow, style rules, output format
-references/fang-advisor-distillation.md      # Advisor diagnosis rules and severity hierarchy
-references/fang-revision-evolution.md        # Before/after repair patterns from version chains
-references/group-domain-scope.md             # Domain prior and field-common term families
-references/fang-advisor-annotation-corpus.md # Raw advisor annotation corpus (markdown)
-references/fang-advisor-annotation-corpus.json # Raw advisor annotation corpus (structured)
-agents/openai.yaml                           # Interface metadata
+SKILL.md                        # Skill entry: task routing, hard constraints, claim hygiene, language-only mode, output conventions
+references/review.md            # Substantive review toolbox: advisor diagnosis, severity, section tasks, claim tightening, fact table, version-chain repair patterns
+references/domain-causal-bnsl.md # Domain pack: causal / DAG / BNSL claim boundaries, terms, method and experiment checks
+references/examples.md          # Case library distilled from advisor annotations, plus a worked abstract rewrite
+references/corpus.md            # Advisor annotation corpus (single source of truth; loaded only for corpus/rule maintenance)
+references/corpus.json          # Structured corpus
+agents/openai.yaml              # Interface metadata
 ```
 
 The repository root is the skill folder. After installation, `SKILL.md` should be located directly at:
