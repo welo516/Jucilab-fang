@@ -1,9 +1,9 @@
 ---
-name: jucilab-fang
+name: jucilab-writing
 description: Polish, review, and audit computer-science manuscripts (evolutionary computation, data mining, NAS, causal learning, Bayesian network structure learning, and adjacent areas) with field-common wording, advisor-style diagnosis, and reviewer-defensible claims. Use when revising abstracts, introductions, related work, contribution lists, method descriptions, figure explanations, results claims, reviewer responses, Chinese-influenced English, 导师风格, 方老师式论文修改, 论文润色, 改稿, 去AI味, 审稿意见回复, 大修, or Fang/JUCILab advisor-style review.
 ---
 
-# JUCILab Fang Manuscript Polishing
+# JUCILab Writing — Manuscript Polishing and Advisor-Style Review
 
 Advisor-style judgment decides what is wrong; the base rules in this file decide how the corrected manuscript reads. Diagnose logic first, then polish wording. Final manuscript text must never imitate the tone of advisor comments.
 
@@ -78,7 +78,7 @@ When the user asks only for language cleanup or de-AI-tone:
 
 ## Output Conventions
 
-Start responses with the `JUCILab-Fang:` label as metadata only; never place it inside manuscript text the user may copy.
+Start responses with the `JUCILab-Writing:` label as metadata only; never place it inside manuscript text the user may copy.
 
 - **Short polish:** copyable text first; notes only for meaning-affecting choices; keep the reply compact for one-paragraph requests. Add `Field wording check:` only when an important term changed.
 - **Substantive review:** format issues as `位置—问题—为何影响结论—具体修复`; then the revised text; then items requiring author confirmation.

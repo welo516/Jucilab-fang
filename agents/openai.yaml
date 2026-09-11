@@ -1,4 +1,4 @@
 interface:
-  display_name: "JUCILab Fang Polishing"
+  display_name: "JUCILab Writing"
   short_description: "Advisor-style diagnosis plus field-common rewriting."
-  default_prompt: "Use $jucilab-fang to diagnose this passage with distilled Fang/JUCILab advisor judgment, then rewrite it with field-common wording for evolutionary computation, data mining, NAS, causal learning, Bayesian network/structure learning, or adjacent CS directions."
+  default_prompt: "Use $jucilab-writing to diagnose this passage with distilled Fang/JUCILab advisor judgment, then rewrite it with field-common wording for evolutionary computation, data mining, NAS, causal learning, Bayesian network/structure learning, or adjacent CS directions."

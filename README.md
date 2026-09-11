@@ -1,6 +1,6 @@
-# JUCILab Fang Skill
+# JUCILab Writing Skill
 
-`jucilab-fang` is a Codex skill for polishing and auditing computer-science and technical academic manuscripts. It emphasizes field-common wording, reviewer-defensible logic, cautious claims, and concise revision notes.
+`jucilab-writing` is a Codex skill for polishing and auditing computer-science and technical academic manuscripts. It emphasizes field-common wording, reviewer-defensible logic, cautious claims, and concise revision notes.
 
 It also embeds a distilled advisor review model: diagnosis rules and repair patterns are distilled from real advisor annotations on group manuscripts (evolutionary computation, data mining, NAS, causal learning, and Bayesian network structure learning), so the skill can act as a Fang/JUCILab advisor-style reviewer as well as a manuscript polisher.
 
@@ -26,7 +26,7 @@ agents/openai.yaml              # Interface metadata
 The repository root is the skill folder. After installation, `SKILL.md` should be located directly at:
 
 ```text
-~/.codex/skills/jucilab-fang/SKILL.md
+~/.codex/skills/jucilab-writing/SKILL.md
 ```
 
 ## Install on macOS
@@ -35,20 +35,20 @@ Clone the repository directly into the Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/welo516/Jucilab-fang.git ~/.codex/skills/jucilab-fang
+git clone https://github.com/welo516/Jucilab-Writing.git ~/.codex/skills/jucilab-writing
 ```
 
 If the folder already exists, update it instead:
 
 ```bash
-cd ~/.codex/skills/jucilab-fang
+cd ~/.codex/skills/jucilab-writing
 git pull
 ```
 
 If `CODEX_HOME` is configured, install to:
 
 ```bash
-$CODEX_HOME/skills/jucilab-fang
+$CODEX_HOME/skills/jucilab-writing
 ```
 
 ## Install on Windows
@@ -57,20 +57,20 @@ Open PowerShell and run:
 
 ```powershell
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null
-git clone https://github.com/welo516/Jucilab-fang.git "$env:USERPROFILE\.codex\skills\jucilab-fang"
+git clone https://github.com/welo516/Jucilab-Writing.git "$env:USERPROFILE\.codex\skills\jucilab-writing"
 ```
 
 If the folder already exists, update it instead:
 
 ```powershell
-cd "$env:USERPROFILE\.codex\skills\jucilab-fang"
+cd "$env:USERPROFILE\.codex\skills\jucilab-writing"
 git pull
 ```
 
 If `CODEX_HOME` is configured, install to:
 
 ```powershell
-$env:CODEX_HOME\skills\jucilab-fang
+$env:CODEX_HOME\skills\jucilab-writing
 ```
 
 ## Use
@@ -78,7 +78,7 @@ $env:CODEX_HOME\skills\jucilab-fang
 Restart Codex or open a new Codex thread after installation. Use prompts such as:
 
 ```text
-Use $jucilab-fang to polish this abstract and check field-common wording, logic, and reviewer risks.
+Use $jucilab-writing to polish this abstract and check field-common wording, logic, and reviewer risks.
 ```
 
 ## Update
@@ -86,14 +86,14 @@ Use $jucilab-fang to polish this abstract and check field-common wording, logic,
 Because the skill is installed as a Git repository, updates can be pulled directly:
 
 ```bash
-cd ~/.codex/skills/jucilab-fang
+cd ~/.codex/skills/jucilab-writing
 git pull
 ```
 
 On Windows PowerShell:
 
 ```powershell
-cd "$env:USERPROFILE\.codex\skills\jucilab-fang"
+cd "$env:USERPROFILE\.codex\skills\jucilab-writing"
 git pull
 ```
 
